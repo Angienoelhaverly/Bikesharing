@@ -18,3 +18,4 @@ This project will use a dataset on cityBike in New York City that will help crea
 ![starting](https://user-images.githubusercontent.com/73972332/110411170-f1eb7600-803e-11eb-8ffd-95a23bcf7b74.png)
 
 ## Summary
+Viewing the above visualizations, we find that a majority of users are male and that most of the riders are annual subscribers. We can also see that peak riding hours are typically during workweek commuting hours, and midday during the weekends when riders are more likely to be riding for leisure. Though the map will look different for Des Moines, we can see from the map of starting locations, that most bikes are checked out in more highly populated areas like downtown or near tourist attractions.
