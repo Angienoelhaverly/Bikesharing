@@ -42,5 +42,5 @@ Based on these findings, the bike app for Des Moines should:
 * We can also reccomend placing more bikes and docking stations near downtown areas, office buildings, and tourist attractions since CitiBike in New York appears to be used primarily for commuting and/or sightseeing.
 
 Recommended Additional Visualizations: 
-*
-* 
+* A comparison of the number of trips bewteen different months to understand how ridership changes seasonally.
+* Trips by weekday by age group
