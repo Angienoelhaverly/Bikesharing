@@ -23,7 +23,7 @@ Male and female riders share similar trends when checking out bikes based on day
 
 ![User Trips by Gender](https://user-images.githubusercontent.com/73972332/110411141-e435f080-803e-11eb-9cb0-741e1ccafefe.png)
 ### Top Starting Locations
-
+Most bikes are checked out in the downtown most populated/busy areas.
 
 ![starting](https://user-images.githubusercontent.com/73972332/110411170-f1eb7600-803e-11eb-8ffd-95a23bcf7b74.png)
 
