@@ -21,3 +21,7 @@ This project will use a dataset on cityBike in New York City that will help crea
 Viewing the above visualizations, we find that a majority of users are male and that most of the riders are annual subscribers. We can also see that peak riding hours are typically during workweek commuting hours, and midday during the weekends when riders are more likely to be riding for leisure. Though the map will look different for Des Moines, we can see from the map of starting locations, that most bikes are checked out in more highly populated areas like downtown or near tourist attractions.
 
 Based on these findings, the bike app for Des Moines should focus on marketing to male riders and offering incentives for subscription. We can also reccomend placing more bikes and docking stations near downtown areas, office buildings, and tourist attractions since CitiBike in New York appears to be used primarily for commuting and/or sightseeing.
+
+Recommended Additional Visualizations: 
+*
+* 
