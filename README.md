@@ -21,6 +21,10 @@ Rides tend to increase during weekday commuting hours (6am-9am and 4pm-7pm), and
 ### Trips by Gender (Weekday per Hour)
 Male and female riders share similar trends when checking out bikes based on day/time. Unknown may not have enough data to identify trends.
 
+![trips gender](https://user-images.githubusercontent.com/73972332/110412815-a71f2d80-8041-11eb-9bb7-07267a6e4d81.png)
+### User Trips by Gender by Weekday
+Male subscribers represent the greatest rider demographic regardless of the day of the week.
+
 ![User Trips by Gender](https://user-images.githubusercontent.com/73972332/110411141-e435f080-803e-11eb-9cb0-741e1ccafefe.png)
 ### Top Starting Locations
 Most bikes are checked out in the downtown most populated/busy areas.
