@@ -6,4 +6,6 @@ This project will use a dataset on cityBike in New York City that will help crea
 ## Results
 ### Checkout Times for Users
 ![check times users](https://user-images.githubusercontent.com/73972332/110410653-14c95a80-803e-11eb-96c3-557f8197a8c4.png)
+### Checkout Times by Gender
+![checkout gender](https://user-images.githubusercontent.com/73972332/110410748-3fb3ae80-803e-11eb-8911-1efd83fb6ad4.png)
 ## Summary
